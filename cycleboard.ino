@@ -1,5 +1,3 @@
-/* Sketch to control the onboard motor and communicate over USB
-   Written by Hector Escobedo */
 
 // Global variables
 const int d = 200; // Delay
